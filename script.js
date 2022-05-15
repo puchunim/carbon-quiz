@@ -110,7 +110,7 @@ function clearStatusClass(element) {
 const questions = [
     {question: "Qual desses é uma das fases do ciclo do carbono?",
      answers: [
-        { text: "Organismo morto", correct: true },
+        { text: "Morte", correct: true },
         { text: "Fertilização", correct: false },
         { text: "Lixiviação", correct: false },
         { text: "Calefação", correct: false }
